@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Code-Editor/static/css/main.774b400e.css",
+    "main.js": "/Code-Editor/static/js/main.dcede846.js",
+    "static/js/787.1e346258.chunk.js": "/Code-Editor/static/js/787.1e346258.chunk.js",
+    "static/media/hero-img.png": "/Code-Editor/static/media/hero-img.14dc8f7a4d4b3edb0402.png",
+    "index.html": "/Code-Editor/index.html",
+    "main.774b400e.css.map": "/Code-Editor/static/css/main.774b400e.css.map",
+    "main.dcede846.js.map": "/Code-Editor/static/js/main.dcede846.js.map",
+    "787.1e346258.chunk.js.map": "/Code-Editor/static/js/787.1e346258.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.774b400e.css",
+    "static/js/main.dcede846.js"
+  ]
+}
