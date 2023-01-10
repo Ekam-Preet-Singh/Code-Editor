@@ -12,7 +12,7 @@ function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/Ekam-Preet-Singh/Code-Editor"
+          href="https://github.com/"
           className="f"
         >
           <span>
@@ -23,7 +23,7 @@ function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.linkedin.com/in/ekam-preet-singh-250595205/"
+          href="https://www.linkedin.com/"
           className="f"
         >
           <span>
@@ -37,10 +37,10 @@ function Footer() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/Ekam-Preet-Singh"
+            href="https://github.com/"
             className="f"
           >
-            @ekam_preet_singh
+            @Developer
           </a>
         </div>
       </Container>
