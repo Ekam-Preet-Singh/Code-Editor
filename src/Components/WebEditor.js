@@ -110,7 +110,7 @@ const WebEditor = () => {
           ></iframe>
         </Row>
       </Container>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };

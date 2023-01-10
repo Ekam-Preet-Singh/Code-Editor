@@ -110,7 +110,7 @@ function Editor() {
           </Col>
         </Row>
       </Container>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
